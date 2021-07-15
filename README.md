@@ -12,7 +12,7 @@ The code in this project is organized like this:
 
 The design can be expressed through this diagram:
 
-![](https://raw.githubusercontent.com/mancusarasa/pastebin_ripoff/main/diagram.png "Main components of this app")
+![](https://raw.githubusercontent.com/mancusarasa/pastebin_rip_off/main/diagram.png "Main components of this app")
 
 This design is a solution to the "Design Pastebin" exercise, taken from https://github.com/donnemartin/system-design-primer/tree/master/solutions/system_design.
 
